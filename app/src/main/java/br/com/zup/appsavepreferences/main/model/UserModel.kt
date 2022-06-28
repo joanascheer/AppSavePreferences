@@ -1,10 +1,10 @@
-package br.com.zup.appsavepreferences
+package br.com.zup.appsavepreferences.main.model
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize
 
-@Parcelize
+
 class UserModel(
     var name: String = "",
-    var age: String = ""
-) : Parcelable
+    var age: Int = 0
+)
