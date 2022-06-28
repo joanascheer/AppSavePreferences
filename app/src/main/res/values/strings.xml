@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppSavePreferences</string>
+    <string name="nome_txt">Nome</string>
+    <string name="idade_txt">Idade</string>
+    <string name="lembrar_dados_txt">Lembrar dados</string>
+    <string name="nebula_eye_desc">Nebulosa com o centro azul escuro, azul claro, amarelo, laranja e vermelho de dentro para fora parecendo um olho humano</string>
+    <string name="entrar_txt">Entrar</string>
+</resources>
